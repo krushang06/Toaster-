@@ -3,7 +3,7 @@ package com.example.mytoasty;
 import android.content.Context;
 import android.widget.Toast;
 
-public class ToasterMessage {
+public class Toaster {
 
     public static void s(Context c, String message){
 
