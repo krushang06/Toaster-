@@ -15,6 +15,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toaster.s(this, "Subscribed To Krush coder's")
-
     }
 }
